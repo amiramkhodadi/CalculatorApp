@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { evaluate, re } from "mathjs";
+import { evaluate } from "mathjs";
 import "./Calculter.css";
 // import { i } from "vite/dist/node/types.d-aGj9QkWt";
 function Calculator() {
